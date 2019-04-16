@@ -1,3 +1,9 @@
+// Extra Credit:
+// Seneca the Younger was a prominent Roman Philosopher, orator, statesmen, and
+// tregedian in the mid 1st century.
+// Seneca's School of Philosophy was stoicism
+// In one sentence, stoicism can be summed up as "focus on the small things"
+
 println("UW Complex Kotlin homework")
 
 // write a lambda using map and fold to solve "FIZZBUZZ" for the first fifteen numbers (0..15)
